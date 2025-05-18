@@ -1,1 +1,2 @@
-# Hastal-k-Bulma
+# Hastalık Bulma Projesi 
+## Öncelikle fotoğrafı yüklemen gerekli yükledikten sonra bunun hangi hastalık olduğunu yazdırır
